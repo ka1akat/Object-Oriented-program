@@ -1,0 +1,3 @@
+1.A class provides implementation, while an interface defines only a contract what methods must be implemented, without full implementation
+2.Yes. Interface fields are implicitly: public, static, final. They are constants, not variables.
+3.Yes, a class can implement multiple interfaces.This is useful because: it allows multiple inheritance of behavior. Helps achieve flexibility and abstraction. A class can act in different roles
