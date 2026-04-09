@@ -1,0 +1,6 @@
+An interface is used when we want to describe a capability or a contract. 
+It tells a class what it must do, but usually does not describe how it should do it. 
+In other words, an interface focuses on behavior.
+
+We use an abstract class when several classes are closely related and should share some common code and common data.
+It allows us to write common code once and force subclasses to complete the missing parts.
